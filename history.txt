@@ -1,0 +1,4 @@
+hello from zyx
+hello from fxy
+TO zsh hello from fxy
+coucou from fxy
